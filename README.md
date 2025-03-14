@@ -21,7 +21,7 @@
 
 ### KY-001 Sensor de temperatura (15 Puntos)
 - *Diagrama de Conexión*: ![KY-001](https://github.com/user-attachments/assets/1e17baf3-1f9c-4a96-be44-7762e0cf70f7)
-- *Código Documentado*: [Ver código]()
+- *Código Documentado*: [Ver código](./KY-001.py)
 - *Video de Funcionamiento*: [Ver video]()
 
 ### KY-002 Sensor de Vibración (15 Puntos)
