@@ -225,7 +225,7 @@
 ### MQ-4 
 - *Diagrama de Conexión*:
 - ![MQ-4](https://github.com/user-attachments/assets/2058c9bf-ebcd-4e07-9b8e-cd290c8d6d97)
-- *Código Documentado*: [Ver código]()
+- *Código Documentado*: [Ver código](./MQ - 4 Gas Metano.py)
 - *Video de Funcionamiento*: [Ver video]()
 
 ### MQ-5
