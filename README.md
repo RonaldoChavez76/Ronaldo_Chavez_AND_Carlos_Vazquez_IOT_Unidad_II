@@ -26,7 +26,7 @@
 
 ### KY-002 Sensor de Vibración (15 Puntos)
 - *Diagrama de Conexión*: ![KY-002](https://github.com/user-attachments/assets/f71609c7-82a3-4347-99c1-b79392d7195b)
-- *Código Documentado*: [Ver código]()
+- *Código Documentado*: [Ver código](./KY-002.py)
 - *Video de Funcionamiento*: [Ver video]()
 
 ### KY-003 Sensor de Efecto Hall (15 Puntos)
