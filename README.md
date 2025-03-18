@@ -5,17 +5,10 @@
 ## Carlos Benito Ramirez Vazquez 1223100451 GDS0651
 
 ## Parte Teórica 
-### Ejercicios de NetAcad JavaScript 2
-- *Capturas de Pantalla
-- Examen 1
+###JavaScript 2
+- *Examen
+- ![image](https://github.com/user-attachments/assets/feef6b89-b818-4d7f-af8e-b3ea6a399119)
 
-- Examen 2
-
-- Examen 3
-
-- Examen 4
-
-- Examen final
 
 
 
@@ -232,25 +225,25 @@
 ### MQ-5 (R)
 - *Diagrama de Conexión*:
 - ![MQ-5](https://github.com/user-attachments/assets/270f93b7-992e-4e2c-b3c3-e99ec063ff69)
-- *Código Documentado*: [Ver código]()
+- *Código Documentado*: [Ver código](./mq5)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1XA_4Om05VF70UaIYEyXM-sMumXE0g-Pw/view?usp=drive_link)
 
 ### MQ-7 (B)
 - *Diagrama de Conexión*:
 - ![MQ-7](https://github.com/user-attachments/assets/3983e769-3c7a-49ce-852a-5b30383f848f)
-- *Código Documentado*: [Ver código]()
+- *Código Documentado*: [Ver código](./sensorMQ-7)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1ZGX0EyZBgLM-nyTOIpAVykIw_wur49VY/view?usp=drive_link)
 
 ### MQ-9 (R)
 - *Diagrama de Conexión*:
 - ![MQ-9](https://github.com/user-attachments/assets/0c46ca03-2241-4b73-a20d-e839f8b29a51)
-- *Código Documentado*: [Ver código]()
+- *Código Documentado*: [Ver código](./MQ-9)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1XPELofwLe7EHZYThLOcJWiTY7wrZKEOC/view?usp=drive_link)
 
 ### Sensor de agua (R)
 - *Diagrama de Conexión*:
 - ![Sensor de nivel de agua](https://github.com/user-attachments/assets/882179bf-2bc6-4cdd-b591-cc2dc2aa2c1d)
-- *Código Documentado*: [Ver código]()
+- *Código Documentado*: [Ver código](./sensor_agua)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1Zkw6CAQeYpoTloT4ez7R_qHBQmpcGnv4/view?usp=drive_link)
 
 
