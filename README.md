@@ -249,13 +249,11 @@
 
 ### Sensor de agua (R)
 - *Diagrama de Conexión*:
+- ![Sensor de nivel de agua](https://github.com/user-attachments/assets/882179bf-2bc6-4cdd-b591-cc2dc2aa2c1d)
 - *Código Documentado*: [Ver código]()
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1Zkw6CAQeYpoTloT4ez7R_qHBQmpcGnv4/view?usp=drive_link)
 
-### Modulo de inclinacion (B)
-- *Diagrama de Conexión*:
-- *Código Documentado*: [Ver código]()
-- *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1ZnM4QPuUvE-L8e9SQL3Wfz5Sb_Ir5qAt/view?usp=drive_link)
+
 
 
 #### Ejercicio placa con leds
